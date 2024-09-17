@@ -1,6 +1,6 @@
 # Rachel Michaud - I did not collaborate with anyone on this assignment
 # I did not utilize any outside sources 
-from computer import *
+from computer import Computer
 class ResaleShop:
 
     
